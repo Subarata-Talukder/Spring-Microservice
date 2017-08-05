@@ -1,4 +1,4 @@
-package model;
+package com.subaratabio.stock.dbservice.model;
 
 import java.util.List;
 
